@@ -41,5 +41,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://web.facebook.com/hazem.rafaty" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="30" /></a>
 <a href="https://www.linkedin.com/in/hazem-alrfati/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30" /></a>
+<a href="https://alrfati.hazem@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="30" /></a>
+
 <br/>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
