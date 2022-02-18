@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="https://github.com/Alrfati-Hazem/" target="_blank" rel="noreferrer">Hazem Alrfati</a> 👋
-</h3>
+</h1>
 
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻
