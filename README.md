@@ -10,8 +10,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 ![](https://komarev.com/ghpvc/?username=alrfati-hazem&label=PROFILE+VIEWS)
-<a href="https://web.facebook.com/hazem.rafaty/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" height="30" target="blank" /></a>
-<a href="https://www.linkedin.com/in/hazem-alrfati/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1645146541~hmac=d6c195ebbdfe3b3dbb59a3c73081ea9c" height="40" target="blank" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alrfati-hazem&show_icons=true&theme=algolia)
 
@@ -23,7 +21,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://web.facebook.com/hazem.rafaty" target="_blank"><img  align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png" width="30" /></a>
-<a href="https://www.linkedin.com/in/hazem-alrfati/" target="_blank"><img  align="left" src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30" /></a>
+<a href="https://web.facebook.com/hazem.rafaty" target="_blank"><img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png" width="30" /></a>
+<a href="https://www.linkedin.com/in/hazem-alrfati/" target="_blank"><img align="left" src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30" /></a>
+<br/>
 <p>- 💬 If you have any question/feedback, please do not hesitate to reach out to me!</p>
 
