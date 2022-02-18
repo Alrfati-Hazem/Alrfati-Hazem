@@ -1,4 +1,4 @@
-<link href="markdown.css" rel="stylesheet"></link>
+<link href="/path/to/markdown.css" rel="stylesheet"></link>
 
 <h3 class="red" align="center">
 Hi there, I'm <a href="https://github.com/Alrfati-Hazem/" target="_blank" rel="noreferrer">Hazem Alrfati</a> 👋
