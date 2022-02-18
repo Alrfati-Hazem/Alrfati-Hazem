@@ -23,7 +23,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://web.facebook.com/hazem.rafaty"><img  align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href="https://web.facebook.com/hazem.rafaty"><img  align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png" width="30" /></a>
 
-</br>
+<br />
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
