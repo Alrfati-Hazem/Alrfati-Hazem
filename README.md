@@ -1,4 +1,5 @@
 ### Hi there, I'm Hazem Alrfati 👋
+<a href="https://web.facebook.com/hazem.rafaty/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670032.png?token=exp=1645146083~hmac=e833d65dec7c7377613deacbe8dd571c" height="100" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alrfati-hazem&show_icons=true&theme=algolia)
 
@@ -9,19 +10,3 @@
 ### Contact with me 🤝
 
 ![](https://github.com/Alrfati-Hazem/github-stats/blob/master/generated/languages.svg)
-
-
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-...
-
-<details>
-<summary>More Skills</summary>
-
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-...
-</details>
