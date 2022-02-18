@@ -1,4 +1,5 @@
 ### Hi there, I'm Hazem Alrfati 👋
+![](https://komarev.com/ghpvc/?username=alrfati-hazem&label=PROFILE+VIEWS)
 <a href="https://web.facebook.com/hazem.rafaty/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" height="30" target="blank" /></a>
 <a href="https://www.linkedin.com/in/hazem-alrfati/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1645146541~hmac=d6c195ebbdfe3b3dbb59a3c73081ea9c" height="40" target="blank" /></a>
 
